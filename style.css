@@ -162,7 +162,7 @@ footer {
     border-color: #f7d7d7;
 }
 
-@media (max-width: 800px) {
+@media (max-width: 950px) {
 
     .containerhome {
         width: 90%;
