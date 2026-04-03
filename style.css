@@ -163,19 +163,23 @@ footer {
 }
 
 @media (max-width: 768px) {
-    
+
     .containerhome {
-    max-width: 90%;
-    margin: 20px auto;  
-}
+        width: 90%;
+        margin: 20px auto;   
+        padding: 0;          
+    }
 
+    .card {
+        width: 100%;
+        box-sizing: border-box;  
+    }
 
-.profileimg {
-    float: none;
-    width: 220px;
-    display: block;
-    margin: 20px auto;   
-    border-radius: 15px;
-}
-
+    .profileimg {
+        float: none;
+        display: block;
+        margin: 20px auto;
+        width: 70%;
+        height: auto;
+    }
 }
