@@ -165,8 +165,7 @@ footer {
 @media (max-width: 768px) {
     
     .containerhome {
-    max-width: 800px;
-    margin-left: 40px;  
+    margin-left: 20px;  
     margin-top: 20px;
 }
 
