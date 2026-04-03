@@ -1,0 +1,164 @@
+
+body {
+    font-family: 'Segoe UI', sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #fdf6f0;
+    color: rgb(70, 70, 70);
+    line-height: 1.6;
+}
+
+
+header {
+    background-image:url(b1.avif);
+    background-size: cover;
+    background-position: center;
+    padding: 80px 40px; 
+    text-align: right; 
+    
+
+}
+
+header h1 {
+    margin: 0;
+    color: #5a7a5a;
+    font-size: 48px;
+   
+}
+
+header p {
+    font-weight: bold;
+    color: #6a8caf;
+}
+
+
+nav {
+    background-color: white;
+    text-align: center;
+    padding: 15px ;
+    position: sticky;
+    top: 0;
+}
+
+nav a {
+    text-decoration: none;
+    color: #777;
+    margin: 0 20px;
+    font-weight: bold;
+    padding: 5px 10px;
+    
+}
+
+nav a:hover {
+    color: #ffb7b2; 
+}
+
+nav a.active {
+    color: #ffb7b2;
+    text-decoration: underline 2px solid #ffb7b2;
+}
+
+
+.container {
+    max-width: 800px;
+    margin: 20px auto 0px;
+    padding: 10px;
+}
+
+.containerhome {
+    max-width: 800px;
+    margin-left: 40px;  
+    margin-top: 20px;
+}
+
+
+.profileimg {
+    float: right;
+    width: 220px;
+    height: 290px;
+    margin-right: 80px;  
+    margin-top: -270px;  
+    border-radius: 15px;
+}
+
+.card {
+    background-color: #ffffff;
+    padding: 20px;
+    margin-bottom: 20px;
+    border-radius: 15px;
+    border: 1px solid #eee;
+}
+
+h2, h3 {
+    color: #6a8caf; 
+}
+
+
+blockquote {
+    border-left: 4px solid #ffb7b2;
+    margin: 20px 0;
+    padding-left: 15px;
+    font-style: italic;
+    color: #666;
+}
+
+
+.sociallinks {
+    margin-top: 30px;
+}
+
+.socialitem {
+    display: inline-block;
+    margin: 10px 20px;
+    vertical-align: middle;
+}
+
+.socialitem img {
+    width: 30px;
+    height: 30px;
+    display: block;
+    margin: 0 auto 5px;
+}
+
+.socialitem a {
+    text-decoration: none;
+    color: #6a8caf;
+    font-size: 13px;
+}
+
+.socialitem a:hover {
+    text-decoration: underline;
+}
+
+
+footer {
+    text-align: center;
+    padding: 20px;
+    background-color: #e2e2e2;
+    font-size: 13px;
+    margin-top: 50px;
+}
+
+
+.minicard {
+    display: inline-block; /* Simple layout without heavy Flex/Grid */
+    background-color: #f0f4f8; /* Soft pastel blue-grey */
+    border: 1px solid #d1d9e0;
+    border-radius: 8px;
+    padding: 10px 15px;
+    margin: 5px;
+    font-size: 13px;
+    color: #555;
+    transition: transform 0.2s;
+}
+
+.minicard:hover {
+    transform: translateY(-3px);
+    background-color: #e2ece9; /* Changes to pastel green on hover */
+}
+
+/* Specific pastel pink for Interests */
+.interestcard {
+    background-color: #fff0f0; 
+    border-color: #f7d7d7;
+}
