@@ -5,14 +5,14 @@ A personal portfolio website built using basic-inetrmediate level semantic HTML 
 
 
 # Structure
-index.html: Home page; a general introduction
-about.html: Details about skills, talents, and hobbies.
+-index.html: Home page; a general introduction
+-about.html: Details about skills, talents, and hobbies.
 projects.html: Showcasing of the different projects undertaken and experiences gained.
 contact.html: Contact information for reaching out such as social media links and email.
 style.css: stylesheet containing all styling for all the pages.
 
 # Special Features used
-Semantic tags like '<header>, <nav>, <section>, and <footer>'. 
+Semantic tags like header, nav, section, and footer. 
 Background image.
 Sticky navigation bar.
 Hover effects.
