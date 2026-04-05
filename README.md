@@ -12,8 +12,8 @@ contact.html: Contact information for reaching out such as social media links an
 style.css: stylesheet containing all styling for all the pages.
 
 # Special Features used
-Semantic tags like <header>, <nav>, <section>, and <footer>. 
-Linear-gradient overlays for background image readability.
+Semantic tags like '<header>, <nav>, <section>, and <footer>'. 
+Background image.
 Sticky navigation bar.
 Hover effects.
 inline-block layout.
