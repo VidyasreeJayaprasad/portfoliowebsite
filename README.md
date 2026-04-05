@@ -1,10 +1,7 @@
 # portfoliowebsite
 
 # Overview
-A personal portfolio website built using basic-inetrmediate level semantic HTML and CSS to showcase achievements, skills, interests, passions and hobbies. This website acts as a digital resume, showcasing my work, expeicence and particular fields od interest such as sustainability and community empowerment.
-
-
-Theme: pastel color palette .
+A personal portfolio website built using basic-inetrmediate level semantic HTML and CSS to showcase achievements, skills, interests, passions and hobbies. This website acts as a digital resume, showcasing my work, expeicence and particular fields of interest such as sustainability and community empowerment.
 
 
 # Structure
@@ -18,8 +15,8 @@ style.css: stylesheet containing all styling for all the pages.
 Semantic tags like <header>, <nav>, <section>, and <footer>. 
 Linear-gradient overlays for background image readability.
 Sticky navigation bar.
-Custom "Mini-Cards" with hover effects.
-Navigation bar with hover effects.
-**'inline-block` layout for skill badges.**
+Hover effects.
+inline-block layout.
 
-# Created by Vidyasree Jayaprasad S2 CSE A (am.sc.u4cse25059) 
+# Created by 
+Vidyasree Jayaprasad S2 CSE A (am.sc.u4cse25059) 
